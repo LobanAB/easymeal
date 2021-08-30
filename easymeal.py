@@ -1,4 +1,5 @@
 import json
+import math
 import random
 from collections import Counter
 
@@ -12,7 +13,7 @@ def ingredients_to_buy(recipes, products, condiments):
                 recipes_condiments.append(ingredient_name)
             elif ingredient_name in recipes_ingredients:
                 recipes_ingredients.update({ingredient_name: (
-                            int(recipes_ingredients.pop(ingredient_name)) + int(edit_weight(ingredient_amount)[0]))})
+                        int(recipes_ingredients.pop(ingredient_name)) + int(edit_weight(ingredient_amount)[0]))})
             else:
                 recipes_ingredients.update({ingredient_name: edit_weight(ingredient_amount)[0]})
     '''  
@@ -31,9 +32,11 @@ def ingredients_to_buy(recipes, products, condiments):
     #          output.update({ingr_name:[]})
     #          output[ingr_name] = edit_weight(values)
 
-    print('ingr', recipes_ingredients)
+    # print('ingr', recipes_ingredients)
     # print('cond', Counter(recipes_condiments).keys())
     # return recipes_ingredients, recipes_condiments
+    condiments = [condiment for condiment in Counter(recipes_condiments).keys()]
+    return recipes_ingredients, condiments
 
 
 def edit_weight(ingredient_amount):
@@ -63,7 +66,7 @@ def edit_weight(ingredient_amount):
     elif 'мл' in amount[-1]:
         return amount[0], 'мл'
     elif 'вкусу' in amount[-1]:
-        return 0, 0
+        return 1, 'г'
     elif 'стеб' in amount[-1]:
         return 50, 'г'
     elif 'вет' in amount[-1]:
@@ -103,7 +106,31 @@ def main():
         random_recipes.append(random.sample([recipe for recipe in recipes
                                              if recipe['meal_type'] == meals_types[meal_type]], 7))
 
-    ingredients_to_buy([x for l in random_recipes for x in l], products, condiments)
+    recipes_ingredients, recipes_condiments = ingredients_to_buy([x for l in random_recipes for x in l],
+                                                                 products, condiments)
+    recipes_ingredients_price = {}
+    for ingredient, ingredient_amount in recipes_ingredients.items():
+        for product in products:
+            if product['ingredient'] == ingredient:
+                if product['units'] == 'уп':
+                    if product['weight_units'] in ['л', 'кг']:
+                        price = math.ceil(int(ingredient_amount) / int(product['weight']) / 1000) * int(
+                            product['price'])
+                        recipes_ingredients_price.update({ingredient: [price, math.ceil(
+                            int(ingredient_amount) / int(product['weight']) / 1000), product['units']]})
+                    else:
+                        price = math.ceil(int(ingredient_amount) / int(product['weight'])) * int(product['price'])
+                        recipes_ingredients_price.update({ingredient: [price, math.ceil(
+                            int(ingredient_amount) / int(product['weight'])), product['units']]})
+                elif product['units'] == 'кг':
+                    price = math.ceil(int(ingredient_amount) / 1000) * int(product['price'].replace(' ', ''))
+                    recipes_ingredients_price.update({ingredient: [price, ingredient_amount, 'г']})
+    json_dump = [{'products': recipes_ingredients_price},
+                 {'condiments': recipes_condiments},
+                 {'recipes': random_recipes}
+                 ]
+    with open('your_meal.json', 'w', encoding='utf8') as my_file:
+        json.dump(json_dump, my_file, ensure_ascii=False)
 
 
 if __name__ == '__main__':
