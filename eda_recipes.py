@@ -2,7 +2,6 @@ import json
 
 import requests
 from bs4 import BeautifulSoup
-from collections import Counter
 import time
 
 
@@ -95,36 +94,11 @@ def save_recipes_to_file(recipes):
 
 
 def main():
-    '''
-    ingredients = []
-    meals = ['zavtraki', 'supy', 'osnovnye-blyuda']
-    pages = 8
-    for meal in meals:
-        for page in range(1, pages + 1):
-            links = get_recipes(meal, page)
-            time.sleep(5)
-            for link in links:
-                recipe_ingredients = get_recipe_info(link)
-                for ingredient in recipe_ingredients:
-                    ingredients.append(ingredient)
-    '''
-    '''
-    links = get_recipes()
-    for link in links:
-        recipe_ingredients = get_recipe_info(link)
-        for ingredient in recipe_ingredients:
-            ingredients.append(ingredient)
-    data = Counter(ingredients)
-    print(data.most_common())
-    print(len(data.most_common()))
-    '''
-
-    '''
-    meals_type1 = ['zavtraki', 'supy']
-    meals_type2 = ['osnovnye-blyuda']
+    meals_types1 = ['zavtraki', 'supy']
+    meals_types2 = ['osnovnye-blyuda']
     pages = 10
     recipes = []
-    for meal in meals_type1:
+    for meal in meals_types1:
         for page in range(1, pages + 1):
             page_recipes = get_recipes(meal, page)
             for recipe in page_recipes:
@@ -133,7 +107,7 @@ def main():
         for recipe in recipes:
             recipe.update(get_recipe(recipe['recipe_link']))
     recipes_type2 = []
-    for meal in meals_type2:
+    for meal in meals_types2:
         for page in range(1, pages + 1):
             page_recipes = get_recipes_type2(meal, page)
             for recipe in page_recipes:
@@ -143,52 +117,6 @@ def main():
             recipe.update(get_recipe_type2(recipe['recipe_link']))
     recipes = recipes + recipes_type2
     save_recipes_to_file(recipes)
-
-    with open('recipes.json', 'r', encoding='utf8') as json_file:
-        recipes_json = json_file.read()
-    recipes = json.loads(recipes_json)
-    ingredients = []
-    for recipe in recipes:
-        for ingredient in recipe['ingredients']:
-            ingredients.append(ingredient)
-    data = Counter(ingredients)
-    # print(data.most_common())
-    # print(len(data.most_common()))
-    # print(len(recipes))
-    common_ingr = []
-    for ingr in data.most_common():
-        if ingr[1] > 2:
-            common_ingr.append({ingr[0]: ingr[1]})
-            # common_ingr.append(ingr[0])
-    print(common_ingr)
-    print(len(common_ingr))
-    with open('common_ingr.json', 'w', encoding='utf8') as my_file:
-        json.dump(common_ingr, my_file, ensure_ascii=False)
-
-    output_recepies = []
-    for recipe in recipes:
-        good = True
-        for ingredient in recipe['ingredients']:
-            if ingredient not in common_ingr:
-                good = False
-        if good:
-            output_recepies.append(recipe)
-    print(output_recepies)
-    print(len(output_recepies))
-    with open('recipes_out.json', 'w', encoding='utf8') as my_file:
-        json.dump(output_recepies, my_file, ensure_ascii=False)
-    with open('common_ingr.json', 'w', encoding='utf8') as my_file:
-        json.dump(common_ingr, my_file, ensure_ascii=False)
-'''
-    with open('recipes.json', 'r', encoding='utf8') as json_file:
-        recipes_json = json_file.read()
-    recipes = json.loads(recipes_json)
-    ingredients = []
-    for recipe in recipes:
-        for ingredient in recipe['ingredients']:
-            ingredients.append(ingredient)
-    data = Counter(ingredients)
-    for ingredient in data:
 
 
 if __name__ == '__main__':
