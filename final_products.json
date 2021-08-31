@@ -1,0 +1,1832 @@
+[
+    {
+     "ingredient": "Репчатый лук",
+     "name": "Лук молодой репчатый",
+     "price": "48",
+     "units": "кг",
+     "weight": "570",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/luk-molodoy-repchatyy-22788.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/22788_1_54205.JPG?13"
+    },
+    {
+     "ingredient": "Куриное яйцо",
+     "name": "Яйцо куриное С0",
+     "price": "108",
+     "units": "уп",
+     "weight": "2100",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-22658.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/22658_1_49475.jpg?5"
+    },
+    {
+     "ingredient": "Чеснок",
+     "name": "Чеснок молодой",
+     "price": "334",
+     "units": "кг",
+     "weight": "100",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/chesnok-molodoy-25037.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/25037_1_59599.jpg?7"
+    },
+    {
+     "ingredient": "Сливочное масло",
+     "name": "Масло сливочное 82,5%, 200 г",
+     "price": "186",
+     "units": "уп",
+     "weight": "200",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/maslo-slivochnoe-82-5-200-nbsp-g-16306.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16306_1_42230.jpg?234"
+    },
+    {
+     "ingredient": "Картофель",
+     "name": "Картофель молодой",
+     "price": "58",
+     "units": "кг",
+     "weight": "1350",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/kartofel-molodoy-17857.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/17857_1_56611.jpg?152"
+    },
+    {
+     "ingredient": "Морковь",
+     "name": "Морковь",
+     "price": "62",
+     "units": "кг",
+     "weight": "510",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/morkov-606.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/606_1_33346.jpg?25"
+    },
+    {
+     "ingredient": "Пшеничная мука",
+     "name": "Мука пшеничная в/с",
+     "price": "60",
+     "units": "уп",
+     "weight": "1",
+     "weight_units": "кг",
+     "product_url": "https://vkusvill.ru/goods/muka-pshenichnaya-v-s-43204.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/43204_1_51945.JPG?83"
+    },
+    {
+     "ingredient": "Оливковое масло",
+     "name": "Оливковое масло Extra Virgin, вес",
+     "price": "970",
+     "units": "кг",
+     "weight": "270",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/olivkovoe-maslo-extra-virgin-ves-24571.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/24571_1_35322.jpg?165"
+    },
+    {
+     "ingredient": "Молоко",
+     "name": "Молоко 3,2%",
+     "price": "57",
+     "units": "уп",
+     "weight": "1",
+     "weight_units": "л",
+     "product_url": "https://vkusvill.ru/goods/moloko-3-2-173.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/173_1_35362.JPG?5"
+    },
+    {
+     "ingredient": "Петрушка",
+     "name": "Петрушка, 50 г",
+     "price": "48",
+     "units": "уп",
+     "weight": "50",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/petrushka-50-g-15196.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15196_1_51435.jpg?233"
+    },
+    {
+     "ingredient": "Помидоры",
+     "name": "Томаты розовые",
+     "price": "125",
+     "units": "кг",
+     "weight": "590",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tomaty-rozovye-15378.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15378_1_33802.jpg?224"
+    },
+    {
+     "ingredient": "Куриный бульон",
+     "name": "Бульон куриный 1 л Айс",
+     "price": "168",
+     "units": "уп",
+     "weight": "1",
+     "weight_units": "л",
+     "product_url": "https://vkusvill.ru/goods/bulon-kurinyy-1-nbsp-l-ays-29507.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/29507_1_48954.JPG?161"
+    },
+    {
+     "ingredient": "Лимон",
+     "name": "Лимоны",
+     "price": "233",
+     "units": "кг",
+     "weight": "210",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/limony-730.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/730_1_40175.jpg?25"
+    },
+    {
+     "ingredient": "Зелень",
+     "name": "Микс салатный «Грасс»",
+     "price": "123",
+     "units": "уп",
+     "weight": "65",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/23160_1_59593.jpg?7"
+    },
+    {
+     "ingredient": "Сметана",
+     "name": "Сметана 15%",
+     "price": "68",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/smetana-15-14526.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/14526_1_35300.JPG?214"
+    },
+    {
+     "ingredient": "Шампиньоны",
+     "name": "Грибы Шампиньоны, 400 г",
+     "price": "100",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/griby-shampinony-400-g-15263.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15263_1_42143.jpg?224"
+    },
+    {
+     "ingredient": "Стебель сельдерея",
+     "name": "Сельдерей чрешковый, шт",
+     "price": "138",
+     "units": "уп",
+     "weight": "350",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/selderey-chereshkovyy-sht-16406.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16406_1_43365.jpg?234"
+    },
+    {
+     "ingredient": "Кинза",
+     "name": "Кинза, 50 г",
+     "price": "62",
+     "units": "уп",
+     "weight": "50",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/kinza-50-g-15310.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15310_1_52700.jpg?143"
+    },
+    {
+     "ingredient": "Куриное филе",
+     "name": "Филе грудки цыпленка",
+     "price": "336",
+     "units": "кг",
+     "weight": "880",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/file-grudki-tsyplenka-488.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/488_1_36153.jpg?25"
+    },
+    {
+     "ingredient": "Белый хлеб",
+     "name": "Батон «Молодежный», нарезка",
+     "price": "32",
+     "units": "уп",
+     "weight": "350",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/baton-molodezhnyy-narezka-19081.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/19081_1_50141.jpg?231"
+    },
+    {
+     "ingredient": "Зеленый лук",
+     "name": "Лук зеленый, 80 г",
+     "price": "65",
+     "units": "уп",
+     "weight": "80",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/luk-zelenyy-80-g-15195.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15195_1_52706.jpg?143"
+    },
+    {
+     "ingredient": "Лук",
+     "name": "Лук молодой репчатый",
+     "price": "48",
+     "units": "кг",
+     "weight": "570",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/luk-molodoy-repchatyy-22788.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/22788_1_54205.JPG?13"
+    },
+    {
+     "ingredient": "Тимьян",
+     "name": "Приправа универсальная",
+     "price": "106",
+     "units": "уп",
+     "weight": "30",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/timyan-lotok-rp-42776.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/42776_1_60006.jpg?131"
+    },
+    {
+     "ingredient": "Панировочные сухари",
+     "name": "Сухари панировочные Волшебное дерево 200 г",
+     "price": "61",
+     "units": "уп",
+     "weight": "200",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/sukhari-panirovochnye-volshebnoe-derevo-200-nbsp-g-44664.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/44664_1_45585.jpg?97"
+    },
+    {
+     "ingredient": "Бекон",
+     "name": "Бекон сырокопченый, нарезка",
+     "price": "173",
+     "units": "уп",
+     "weight": "150",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/bekon-syrokopchenyy-narezka-31952.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/31952_1_50260.jpg?202"
+    },
+    {
+     "ingredient": "Мед",
+     "name": "Мед «Цветочный» акациевый",
+     "price": "291",
+     "units": "уп",
+     "weight": "300",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/med-tsvetochnyy-akatsievyy-21417.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/21417_1_38596.jpg?125"
+    },
+    {
+     "ingredient": "Укроп",
+     "name": "Укроп, 50 г",
+     "price": "48",
+     "units": "уп",
+     "weight": "50",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/ukrop-50-g-15194.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15194_1_52947.jpg?165"
+    },
+    {
+     "ingredient": "Лук-порей",
+     "name": "Лук порей, 300 г",
+     "price": "355",
+     "units": "уп",
+     "weight": "300",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/luk-porey-300-nbsp-g-21669.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/21669_1_53585.jpg?37"
+    },
+    {
+     "ingredient": "Красный лук",
+     "name": "Лук красный, 500 г",
+     "price": "68",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/luk-krasnyy-500-nbsp-g-23004.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/23004_1_52608.JPG?122"
+    },
+    {
+     "ingredient": "Перец чили",
+     "name": "Перец Дядя Ваня Чили маринованный с/б 340 г",
+     "price": "156",
+     "units": "уп",
+     "weight": "340",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/perets-dyadya-vanya-chili-marinovannyy-s-b-340-nbsp-g-46181.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/46181_1_46144.jpg?137"
+    },
+    {
+     "ingredient": "Рис",
+     "name": "Рис круглозерный шлифованный, 500 г",
+     "price": "80",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/ris-kruglozernyy-shlifovannyy-500-nbsp-g-28802.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/28802_1_51429.jpg?233"
+    },
+    {
+     "ingredient": "Курица",
+     "name": "Тушка цыпленка-бройлера, охлажденная",
+     "price": "203",
+     "units": "кг",
+     "weight": "1610",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-okhlazhdennaya-484.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/484_1_49845.jpg?6"
+    },
+    {
+     "ingredient": "Соевый соус",
+     "name": "Соус соевый",
+     "price": "67",
+     "units": "уп",
+     "weight": "220",
+     "weight_units": "мл",
+     "product_url": "https://vkusvill.ru/goods/sous-soevyy-16353.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16353_1_36808.jpg?234"
+    },
+    {
+     "ingredient": "Сливки",
+     "name": "Сливки 30%",
+     "price": "83",
+     "units": "уп",
+     "weight": "190",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/slivki-30-17394.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/17394_1_47845.jpg?5"
+    },
+    {
+     "ingredient": "Сыр",
+     "name": "Сыр полутвердый «Российский»",
+     "price": "777",
+     "units": "кг",
+     "weight": "250",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/syr-polutverdyy-rossiyskiy-336.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/336_1_40196.jpg?131"
+    },
+    {
+     "ingredient": "Лимонный сок",
+     "name": "Лимоны",
+     "price": "233",
+     "units": "кг",
+     "weight": "210",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/limony-730.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/730_1_40175.jpg?25"
+    },
+    {
+     "ingredient": "Красный сладкий перец",
+     "name": "Перец красный сладкий",
+     "price": "210",
+     "units": "кг",
+     "weight": "260",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/21005_1_36389.jpg?125"
+    },
+    {
+     "ingredient": "Томатная паста",
+     "name": "Томатная паста, 250 г",
+     "price": "86",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tomatnaya-pasta-250-g-18599.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/18599_1_36679.jpg?133"
+    },
+    {
+     "ingredient": "Творог",
+     "name": "Творог 5%",
+     "price": "142",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tvorog-5-185.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/185_1_44729.jpg?15"
+    },
+    {
+     "ingredient": "Бананы",
+     "name": "Бананы",
+     "price": "88",
+     "units": "кг",
+     "weight": "760",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/banany-731.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/731_1_36135.jpg?25"
+    },
+    {
+     "ingredient": "Сладкий перец",
+     "name": "Перец сладкий",
+     "price": "110",
+     "units": "кг",
+     "weight": "370",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/perets-sladkiy-608.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/608_1_61123.JPG?15"
+    },
+    {
+     "ingredient": "Манная крупа",
+     "name": "Крупа манная",
+     "price": "40",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/krupa-mannaya-17678.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/17678_1_55836.jpg?92"
+    },
+    {
+     "ingredient": "Сливки 20%-ные",
+     "name": "Сливки Valio кулинарные 20% 250 мл",
+     "price": "111",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/slivki-valio-kulinarnye-20-250-ml-46662.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/46662_1_47483.jpg?157"
+    },
+    {
+     "ingredient": "Имбирь",
+     "name": "Имбирь, 200 г",
+     "price": "155",
+     "units": "уп",
+     "weight": "200",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/imbir-200-nbsp-g-31268.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/31268_1_46789.jpg?36"
+    },
+    {
+     "ingredient": "Разрыхлитель",
+     "name": "Разрыхлитель теста Dr.Oetker 10 г",
+     "price": "10",
+     "units": "уп",
+     "weight": "10",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/razrykhlitel-testa-dr-oetker-10-nbsp-g-49982.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/49982_1_54130.png?175"
+    },
+    {
+     "ingredient": "Свежая мята",
+     "name": "Мята свежая (лоток) _РП",
+     "price": "80",
+     "units": "уп",
+     "weight": "50",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/myata-svezhaya-lotok-rp-42782.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/42782_1_60008.jpg?131"
+    },
+    {
+     "ingredient": "Мускатный орех",
+     "name": "Мускатный орех молотый",
+     "price": "59",
+     "units": "уп",
+     "weight": "10",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/muskatnyy-orekh-molotyy-20341.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/20341_1_54389.jpg?226"
+    },
+    {
+     "ingredient": "Плавленый сырок",
+     "name": "Сыр плавленый «Дружба»",
+     "price": "45",
+     "units": "уп",
+     "weight": "200",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/syr-plavlenyy-yantar-slivochnyy-27495.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/43061_1_42942.jpg?47"
+    },
+    {
+     "ingredient": "Базилик",
+     "name": "Базилик зеленый, 30 г",
+     "price": "53",
+     "units": "уп",
+     "weight": "30",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/bazilik-zelenyy-30-nbsp-g-22870.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/22870_1_21929.jpg?105"
+    },
+    {
+     "ingredient": "Яичный желток",
+     "name": "Яйцо куриное С0",
+     "price": "108",
+     "units": "уп",
+     "weight": "650",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-22658.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/22658_1_49475.jpg?5"
+    },
+    {
+     "ingredient": "Кумин (зира)",
+     "name": "Зира",
+     "price": "45",
+     "units": "уп",
+     "weight": "15",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/zira-38455.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/38455_1_41520.jpg?156"
+    },
+    {
+     "ingredient": "Кайенский перец",
+     "name": "Перец острый, 100 г",
+     "price": "115",
+     "units": "уп",
+     "weight": "100",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/perets-ostryy-100-nbsp-g-21041.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/21041_1_47436.jpg?126"
+    },
+    {
+     "ingredient": "Сливки 35%-ные",
+     "name": "Сливки Parmalat стерилизованные 35% 500 мл",
+     "price": "249",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "мл",
+     "product_url": "https://vkusvill.ru/goods/slivki-parmalat-sterilizovannye-35-500-nbsp-ml-32144.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/32144_1_37017.jpg?46"
+    },
+    {
+     "ingredient": "Белый винный уксус",
+     "name": "Уксус Kuhne Aceto di vino bianco 6% из белого вина 250 мл",
+     "price": "139",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "мл",
+     "product_url": "https://vkusvill.ru/goods/uksus-kuhne-aceto-di-vino-bianco-6-iz-belogo-vina-250-nbsp-ml-46015.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/46015_1_48327.jpg?137"
+    },
+    {
+     "ingredient": "Тыква",
+     "name": "Тыква Оранжевое солнце",
+     "price": "68",
+     "units": "кг",
+     "weight": "1140",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tykva-oranzhevoe-solntse-19365.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/19365_1_34714.jpg?93"
+    },
+    {
+     "ingredient": "Паприка",
+     "name": "Паприка молотая",
+     "price": "25",
+     "units": "уп",
+     "weight": "10",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/paprika-molotaya-16360.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16360_1_14945.jpg?234"
+    },
+    {
+     "ingredient": "Сыр пармезан",
+     "name": "Сыр «Пармезан молодой»",
+     "price": "997",
+     "units": "кг",
+     "weight": "300",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/syr-parmezan-molodoy-15807.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15807_1_49107.jpg?111"
+    },
+    {
+     "ingredient": "Томатная паста ",
+     "name": "Томатная паста, 250 г",
+     "price": "86",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tomatnaya-pasta-250-g-18599.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/18599_1_36679.jpg?133"
+    },
+    {
+     "ingredient": "Говяжий бульон",
+     "name": "Говядина грудинка",
+     "price": "615",
+     "units": "кг",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/govyadina-grudinka-32399.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/32399_1_41915.jpg?46"
+    },
+    {
+     "ingredient": "Говяжий фарш",
+     "name": "Фарш говяжий ГП",
+     "price": "445",
+     "units": "кг",
+     "weight": "580",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/farsh-govyazhiy-gp-29593.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/29593_1_58701.jpg?193"
+    },
+    {
+     "ingredient": "Говяжья вырезка",
+     "name": "Вырезка говяжья ГП",
+     "price": "1 440",
+     "units": "кг",
+     "weight": "600",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/vyrezka-govyazhya-gp-27657.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/27657_1_27035.jpg?205"
+    },
+    {
+     "ingredient": "Сода",
+     "name": "Сода пищевая пл/б 450 г",
+     "price": "76",
+     "units": "уп",
+     "weight": "450",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/soda-pishchevaya-pl-b-450-nbsp-g-40534.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/40534_1_41321.jpg?206"
+    },
+    {
+     "ingredient": "Яблоко",
+     "name": "Яблоко Слава победителям",
+     "price": "117",
+     "units": "кг",
+     "weight": "640",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/yabloko-slava-pobeditelyam-15817.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15817_1_60208.jpg?233"
+    },
+    {
+     "ingredient": "Твердый сыр",
+     "name": "Сыр твердый «Мегард»",
+     "price": "976",
+     "units": "кг",
+     "weight": "210",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/syr-tverdyy-megard-24680.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/24680_1_47920.jpg?3"
+    },
+    {
+     "ingredient": "Апельсины",
+     "name": "Апельсины Навелин",
+     "price": "177",
+     "units": "кг",
+     "weight": "730",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/apelsiny-navelin-22544.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/22544_1_41081.jpg?145"
+    },
+    {
+     "ingredient": "Натуральный йогурт",
+     "name": "Йогурт греческий 4%",
+     "price": "49",
+     "units": "уп",
+     "weight": "120",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/yogurt-grecheskiy-4-1696.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/1696_1_59857.jpg?15"
+    },
+    {
+     "ingredient": "Розмарин",
+     "name": "Зелень сушеная «Розмарин»",
+     "price": "20",
+     "units": "уп",
+     "weight": "10",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/zelen-sushenaya-rozmarin-33862.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/33862_1_34479.jpg?66"
+    },
+    {
+     "ingredient": "Топленое масло",
+     "name": "Масло топленое «Гхи»",
+     "price": "231",
+     "units": "уп",
+     "weight": "140",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/maslo-toplenoe-gkhi-20038.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/20038_1_44740.jpg?105"
+    },
+    {
+     "ingredient": "Зеленый горошек",
+     "name": "Горошек зеленый консервированный",
+     "price": "65",
+     "units": "уп",
+     "weight": "420",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/goroshek-zelenyy-konservirovannyy-16378.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16378_1_50639.jpg?195"
+    },
+    {
+     "ingredient": "Коричневый сахар",
+     "name": "Сахар Мистраль Демерара коричневый 500 г",
+     "price": "159",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/sakhar-mistral-demerara-korichnevyy-500-nbsp-g-46088.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/46088_1_45089.jpg?137"
+    },
+    {
+     "ingredient": "Консервированные помидоры кусочками",
+     "name": "Томаты Mutti мелконарезанные 400 г",
+     "price": "129",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tomaty-mutti-melkonarezannye-400-nbsp-g-31858.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/31858_1_49818.jpg?105"
+    },
+    {
+     "ingredient": "Баклажаны",
+     "name": "Баклажаны",
+     "price": "110",
+     "units": "кг",
+     "weight": "530",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/baklazhany-618.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/618_1_56597.jpg?142"
+    },
+    {
+     "ingredient": "Говядина",
+     "name": "Говядина лопатка, без кости",
+     "price": "780",
+     "units": "кг",
+     "weight": "480",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/govyadina-lopatka-bez-kosti-501.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/501_1_50544.JPG?175"
+    },
+    {
+     "ingredient": "Шпинат",
+     "name": "Салат Шпинат, 125 г",
+     "price": "150",
+     "units": "уп",
+     "weight": "125",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/salat-shpinat-125-nbsp-g-29851.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/29851_1_52039.jpg?73"
+    },
+    {
+     "ingredient": "Дижонская горчица",
+     "name": "Горчица Kuhne Mustard hot Острая Дижонская 250 мл",
+     "price": "175",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "мл",
+     "product_url": "https://vkusvill.ru/goods/gorchitsa-kuhne-mustard-hot-ostraya-dizhonskaya-250-nbsp-ml-46009.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/46009_1_48321.jpg?137"
+    },
+    {
+     "ingredient": "Йогурт",
+     "name": "Йогурт греческий 4%",
+     "price": "49",
+     "units": "уп",
+     "weight": "120",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/yogurt-grecheskiy-4-1696.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/1696_1_59857.jpg?15"
+    },
+    {
+     "ingredient": "Корица",
+     "name": "Корица молотая",
+     "price": "133",
+     "units": "уп",
+     "weight": "35",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/koritsa-molotaya-30510.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/30510_1_26906.jpg?16"
+    },
+    {
+     "ingredient": "Мята",
+     "name": "Мята, 30гр",
+     "price": "60",
+     "units": "уп",
+     "weight": "30",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/myata-30gr-1336.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/1336_1_55782.jpg?157"
+    },
+    {
+     "ingredient": "Помидоры в собственном соку",
+     "name": "Томаты очищенные в собственном соку",
+     "price": "154",
+     "units": "уп",
+     "weight": "750",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tomaty-ochishchennye-v-sobstvennom-soku-18209.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/18209_1_50929.jpg?173"
+    },
+    {
+     "ingredient": "Орегано",
+     "name": "Орегано, 7 г",
+     "price": "16",
+     "units": "уп",
+     "weight": "7",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/oregano-7-g-16843.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16843_1_14942.jpg?234"
+    },
+    {
+     "ingredient": "Свежая кинза (кориандр)",
+     "name": "Кинза свежая (Кориандр)_РП",
+     "price": "27",
+     "units": "уп",
+     "weight": "30",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/kinza-svezhaya-koriandr-rp-42779.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/42779_1_60007.jpg?131"
+    },
+    {
+     "ingredient": "Капуста брокколи",
+     "name": "Капуста брокколи, свежезамороженная",
+     "price": "141",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/kapusta-brokkoli-svezhezamorozhennaya-16122.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16122_1_30182.jpg?224"
+    },
+    {
+     "ingredient": "Красная чечевица",
+     "name": "Чечевица красная, 450 г",
+     "price": "98",
+     "units": "уп",
+     "weight": "450",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/chechevitsa-krasnaya-450-nbsp-g-36616.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/36616_1_57369.jpg?207"
+    },
+    {
+     "ingredient": "Макароны",
+     "name": "Макароны перо рифленое",
+     "price": "42",
+     "units": "уп",
+     "weight": "450",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/makarony-pero-riflenoe-15089.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15089_1_38491.jpg?214"
+    },
+    {
+     "ingredient": "Корень имбиря",
+     "name": "Имбирь, 200 г",
+     "price": "155",
+     "units": "уп",
+     "weight": "200",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/imbir-200-nbsp-g-31268.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/31268_1_46789.jpg?36"
+    },
+    {
+     "ingredient": "Овощной бульон",
+     "name": "Бульон овощной сухой",
+     "price": "65",
+     "units": "уп",
+     "weight": "1000",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/bulon-ovoshchnoy-sukhoy-36385.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/36385_1_53695.jpg?153"
+    },
+    {
+     "ingredient": "Гвоздика",
+     "name": "Приправа Волшебное дерево Гвоздика целая 15 г",
+     "price": "111",
+     "units": "уп",
+     "weight": "15",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/priprava-volshebnoe-derevo-gvozdika-tselaya-15-nbsp-g-44676.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/44676_1_45602.jpg?97"
+    },
+    {
+     "ingredient": "Белокочанная капуста",
+     "name": "Капуста белокочанная",
+     "price": "55",
+     "units": "кг",
+     "weight": "1330",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/kapusta-belokochannaya-602.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/602_1_34169.jpg?131"
+    },
+    {
+     "ingredient": "Молотый кумин (зира)",
+     "name": "Зира",
+     "price": "45",
+     "units": "уп",
+     "weight": "15",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/zira-38455.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/38455_1_41520.jpg?156"
+    },
+    {
+     "ingredient": "Рубленная кинза (кориандр)",
+     "name": "Кинза свежая (Кориандр)_РП",
+     "price": "27",
+     "units": "уп",
+     "weight": "30",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/kinza-svezhaya-koriandr-rp-42779.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/42779_1_60007.jpg?131"
+    },
+    {
+     "ingredient": "Помидоры черри",
+     "name": "Томаты черри красные на ветке, 250 г",
+     "price": "115",
+     "units": "уп",
+     "weight": "2500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tomaty-cherri-krasnye-na-vetke-250-nbsp-g-24372.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/24372_1_36468.jpg?165"
+    },
+    {
+     "ingredient": "Свежие грибы",
+     "name": "Белые грибы свежезамороженные, 300 гр",
+     "price": "175",
+     "units": "уп",
+     "weight": "300",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/belye-griby-svezhezamorozhennye-300-nbsp-gr-40146.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/40146_1_39387.jpg?196"
+    },
+    {
+     "ingredient": "Сахарная пудра",
+     "name": "Пудра сахарная Dr.Oetker универсальная 60 г",
+     "price": "21",
+     "units": "уп",
+     "weight": "60",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/pudra-sakharnaya-dr-oetker-universalnaya-60-nbsp-g-50309.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/50309_1_54164.png?175"
+    },
+    {
+     "ingredient": "Овсяные хлопья",
+     "name": "Геркулес «Овсяные хлопья», 400 г",
+     "price": "40",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/gerkules-ovsyanye-khlopya-400-g-1248.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/1248_1_36443.jpg?214"
+    },
+    {
+     "ingredient": "Лимонная цедра",
+     "name": "Лимоны",
+     "price": "233",
+     "units": "кг",
+     "weight": "210",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/limony-730.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/730_1_40175.jpg?25"
+    },
+    {
+     "ingredient": "Свиной фарш",
+     "name": "Фарш свиной, вес",
+     "price": "325",
+     "units": "кг",
+     "weight": "520",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/farsh-svinoy-ves-51065.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/51065_1_57306.jpg?96"
+    },
+    {
+     "ingredient": "Молотый перец чили",
+     "name": "Перец черный молотый, 10 г",
+     "price": "28",
+     "units": "уп",
+     "weight": "10",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/perets-chernyy-molotyy-10-g-16844.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16844_1_14951.jpg?234"
+    },
+    {
+     "ingredient": "Перловая крупа",
+     "name": "Крупа ячменная перловая, 500 г",
+     "price": "38",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/krupa-yachmennaya-perlovaya-500-nbsp-g-21020.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/21020_1_55880.JPG?172"
+    },
+    {
+     "ingredient": "Куркума",
+     "name": "Куркума молотая, 10 г",
+     "price": "21",
+     "units": "уп",
+     "weight": "10",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/kurkuma-molotaya-10-g-16842.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16842_1_14936.jpg?234"
+    },
+    {
+     "ingredient": "Мясной фарш",
+     "name": "Фарш из говядины и свинины, 400 г",
+     "price": "214",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-svininy-400-nbsp-g-21228.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/21228_1_49111.jpg?151"
+    },
+    {
+     "ingredient": "Лайм",
+     "name": "Лайм, 200 г",
+     "price": "145",
+     "units": "уп",
+     "weight": "200",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/laym-200-nbsp-g-22644.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/22644_1_50173.jpg?12"
+    },
+    {
+     "ingredient": "Куриная грудка",
+     "name": "Филе грудки цыпленка",
+     "price": "336",
+     "units": "кг",
+     "weight": "880",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/file-grudki-tsyplenka-488.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/488_1_36153.jpg?25"
+    },
+    {
+     "ingredient": "Вермишель",
+     "name": "Макароны «Вермишель»",
+     "price": "42",
+     "units": "уп",
+     "weight": "450",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/makarony-vermishel-782.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/782_1_57341.jpg?27"
+    },
+    {
+     "ingredient": "Цветная капуста",
+     "name": "Капуста цветная",
+     "price": "248",
+     "units": "кг",
+     "weight": "710",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/kapusta-tsvetnaya-626.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/626_1_52368.jpg?225"
+    },
+    {
+     "ingredient": "Огурцы",
+     "name": "Огурцы трилоджи",
+     "price": "105",
+     "units": "кг",
+     "weight": "460",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/ogurtsy-trilodzhi-18257.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/18257_1_55570.jpg?24"
+    },
+    {
+     "ingredient": "Цукини",
+     "name": "Цукини",
+     "price": "98",
+     "units": "кг",
+     "weight": "520",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tsukini-667.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/667_1_57169.jpg?15"
+    },
+    {
+     "ingredient": "Филе трески",
+     "name": "Филе трески с картофельно-тыквенным пюре",
+     "price": "336",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/treska-file-portsionnoe-zamorozhennoe-27926.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/27926_1_57001.jpg?181"
+    },
+    {
+     "ingredient": "Мягкий творог",
+     "name": "Творог мягкий 4,5%",
+     "price": "49",
+     "units": "уп",
+     "weight": "120",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tvorog-myagkiy-4-5-1698.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/1698_1_47967.jpg?234"
+    },
+    {
+     "ingredient": "Гречневая крупа",
+     "name": "Крупа гречневая ядрица, 900 г",
+     "price": "97",
+     "units": "уп",
+     "weight": "900",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/krupa-grechnevaya-yadritsa-900-g-17699.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/17699_1_36454.jpg?5"
+    },
+    {
+     "ingredient": "Рубленая петрушка",
+     "name": "Петрушка, 50 г",
+     "price": "68",
+     "units": "уп",
+     "weight": "50",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/petrushka-50-g-15196.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15196_1_51435.jpg?233"
+    },
+    {
+     "ingredient": "Авокадо",
+     "name": "Авокадо Хасс, шт",
+     "price": "90",
+     "units": "уп",
+     "weight": "160",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/avokado-khass-sht-16591.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16591_1_35482.jpg?234"
+    },
+    {
+     "ingredient": "Сметана 20%-ная",
+     "name": "Сметана 20%",
+     "price": "117",
+     "units": "уп",
+     "weight": "350",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/smetana-20-143.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/143_1_35302.JPG?214"
+    },
+    {
+     "ingredient": "Кетчуп",
+     "name": "Соус томатный шашлычный, 330 г",
+     "price": "81",
+     "units": "уп",
+     "weight": "330",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/sous-tomatnyy-shashlychnyy-330-nbsp-g-20723.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/20723_1_30573.jpg?115"
+    },
+    {
+     "ingredient": "Сыр моцарелла",
+     "name": "Сыр «Моцарелла для пиццы» мягкий",
+     "price": "211",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/syr-motsarella-dlya-pitstsy-myagkiy-16509.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16509_1_36812.jpg?234"
+    },
+    {
+     "ingredient": "Креветки",
+     "name": "Креветки аргентинские дикие очищенные",
+     "price": "785",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/krevetki-argentinskie-dikie-ochishchennye-20000.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/20000_1_36387.jpg?105"
+    },
+    {
+     "ingredient": "Сухие дрожжи",
+     "name": "Дрожжи сухие Dr.Oetker хлебопекарные быстродействующие 7 г",
+     "price": "19",
+     "units": "уп",
+     "weight": "7",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/drozhzhi-sukhie-dr-oetker-khlebopekarnye-bystrodeystvuyushchie-7-nbsp-g-49988.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/49988_1_54132.png?175"
+    },
+    {
+     "ingredient": "Зеленый сладкий перец",
+     "name": "Перец сладкий",
+     "price": "110",
+     "units": "кг",
+     "weight": "370",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/perets-sladkiy-608.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/608_1_61123.JPG?15"
+    },
+    {
+     "ingredient": "Тертый сыр",
+     "name": "Сыр «Российский» тертый",
+     "price": "150",
+     "units": "уп",
+     "weight": "150",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/syr-rossiyskiy-tertyy-48621.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/48621_1_61592.jpg?127"
+    },
+    {
+     "ingredient": "Молотая корица",
+     "name": "Корица молотая",
+     "price": "133",
+     "units": "уп",
+     "weight": "35",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/koritsa-molotaya-30510.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/30510_1_26906.jpg?16"
+    },
+    {
+     "ingredient": "Кокосовое молоко",
+     "name": "Молоко кокосовое Zinus Vegan 1 л",
+     "price": "171",
+     "units": "уп",
+     "weight": "1",
+     "weight_units": "л",
+     "product_url": "https://vkusvill.ru/goods/moloko-kokosovoe-zinus-vegan-1-nbsp-l-44118.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/44118_1_45741.png?77"
+    },
+    {
+     "ingredient": "Слоеное тесто",
+     "name": "Тесто слоеное бездрожжевое на слив. масле, 500 г",
+     "price": "215",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/testo-sloenoe-bezdrozhzhevoe-na-sliv-masle-500-nbsp-g-25365.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/25365_1_24355.jpg?185"
+    },
+    {
+     "ingredient": "Плавленый сыр",
+     "name": "Сыр плавленый «Дружба»",
+     "price": "45",
+     "units": "уп",
+     "weight": "90",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/syr-plavlenyy-yantar-slivochnyy-27495.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/43061_1_42942.jpg?47"
+    },
+    {
+     "ingredient": "Сушеный базилик",
+     "name": "Зелень сушеная «Базилик»",
+     "price": "18",
+     "units": "уп",
+     "weight": "7",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/zelen-sushenaya-bazilik-16361.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16361_1_14934.jpg?234"
+    },
+    {
+     "ingredient": "Сушеный орегано",
+     "name": "Орегано, 7 г",
+     "price": "16",
+     "units": "уп",
+     "weight": "7",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/oregano-7-g-16843.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16843_1_14942.jpg?234"
+    },
+    {
+     "ingredient": "Сливки 10%-ные",
+     "name": "Сливки 10%, 450 мл",
+     "price": "105",
+     "units": "уп",
+     "weight": "450",
+     "weight_units": "мл",
+     "product_url": "https://vkusvill.ru/goods/slivki-10-450-ml-1225.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/1225_1_59885.jpg?15"
+    },
+    {
+     "ingredient": "Белый лук",
+     "name": "Лук белый, 500 г",
+     "price": "98",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/luk-belyy-500-nbsp-g-23003.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/23003_1_52605.JPG?145"
+    },
+    {
+     "ingredient": "Филе лосося",
+     "name": "Семга атлантическая филе на коже охлажденное",
+     "price": "1900",
+     "units": "кг",
+     "weight": "300",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/semga-atlanticheskaya-file-na-kozhe-okhlazhdennoe-36739.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/36739_1_41929.jpg?116"
+    },
+    {
+     "ingredient": "Горох",
+     "name": "Горох колотый шлифованный, 500 г",
+     "price": "39",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/gorokh-kolotyy-shlifovannyy-500-g-14513.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/14513_1_39681.jpg?214"
+    },
+    {
+     "ingredient": "Красная консервированная фасоль",
+     "name": "Фасоль красная натуральная без доб. сахара",
+     "price": "46",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/fasol-krasnaya-naturalnaya-bez-dob-sakhara-28796.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/28796_1_51067.jpg?227"
+    },
+    {
+     "ingredient": "Белые грибы",
+     "name": "Белые грибы свежезамороженные, 300 гр",
+     "price": "175",
+     "units": "уп",
+     "weight": "300",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/belye-griby-svezhezamorozhennye-300-nbsp-gr-40146.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/40146_1_39387.jpg?196"
+    },
+    {
+     "ingredient": "Молотый красный перец",
+     "name": "Перец красный сладкий",
+     "price": "210",
+     "units": "кг",
+     "weight": "260",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/21005_1_36389.jpg?125"
+    },
+    {
+     "ingredient": "Фарш",
+     "name": "Фарш из говядины и свинины, 400 г",
+     "price": "214",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-svininy-400-nbsp-g-21228.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/21228_1_49111.jpg?151"
+    },
+    {
+     "ingredient": "Кунжутное масло",
+     "name": "Масло кунжутное, 250 мл",
+     "price": "276",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "мл",
+     "product_url": "https://vkusvill.ru/goods/maslo-kunzhutnoe-250-ml-17583.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/17583_1_59144.jpg?234"
+    },
+    {
+     "ingredient": "Молотый кориандр",
+     "name": "Кориандр молотый",
+     "price": "28",
+     "units": "уп",
+     "weight": "10",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/koriandr-molotyy-38449.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/38449_1_41539.jpg?156"
+    },
+    {
+     "ingredient": "Телятина",
+     "name": "Телятина лопатка б/к ГП",
+     "price": "749",
+     "units": "кг",
+     "weight": "740",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/telyatina-lopatka-b-k-gp-48174.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/48174_1_51174.jpg?12"
+    },
+    {
+     "ingredient": "Сельдерей",
+     "name": "Сельдерей черешковый, шт",
+     "price": "138",
+     "units": "уп",
+     "weight": "350",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/selderey-chereshkovyy-sht-16406.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16406_1_43365.jpg?234"
+    },
+    {
+     "ingredient": "Российский сыр",
+     "name": "Сыр полутвердый «Российский»",
+     "price": "777",
+     "units": "кг",
+     "weight": "250",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/syr-polutverdyy-rossiyskiy-336.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/336_1_40196.jpg?131"
+    },
+    {
+     "ingredient": "Батон",
+     "name": "Батон «Молодежный», нарезка",
+     "price": "32",
+     "units": "уп",
+     "weight": "350",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/baton-molodezhnyy-narezka-19081.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/19081_1_50141.jpg?231"
+    },
+    {
+     "ingredient": "Соленые огурцы",
+     "name": "Огурцы соленые, 400 г",
+     "price": "111",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/ogurtsy-solenye-400-g-16516.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16516_1_50927.jpg?173"
+    },
+    {
+     "ingredient": "Ванильный сахар",
+     "name": "Сахар Dr.Oetker Ванильный 8 г",
+     "price": "9",
+     "units": "уп",
+     "weight": "8",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/sakhar-dr-oetker-vanilnyy-8-nbsp-g-50303.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/50303_1_54161.png?175"
+    },
+    {
+     "ingredient": "Клубника",
+     "name": "Клубника, 500 г",
+     "price": "360",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/klubnika-500-g-17769.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/17769_1_42841.jpg?105"
+    },
+    {
+     "ingredient": "Кефир",
+     "name": "Кефир 3,2%",
+     "price": "62",
+     "units": "уп",
+     "weight": "1",
+     "weight_units": "кг",
+     "product_url": "https://vkusvill.ru/goods/kefir-3-2-158.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/158_1_40167.jpg?224"
+    },
+    {
+     "ingredient": "Кабачки",
+     "name": "Кабачки",
+     "price": "108",
+     "units": "кг",
+     "weight": "670",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/kabachki-619.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/619_1_52035.jpg?43"
+    },
+    {
+     "ingredient": "Мюсли",
+     "name": "Мюсли «Ягодные»",
+     "price": "190",
+     "units": "уп",
+     "weight": "375",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/myusli-yagodnye-1115.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/1115_1_57337.jpg?27"
+    },
+    {
+     "ingredient": "Тортильи",
+     "name": "Тортилья пшеничная",
+     "price": "45",
+     "units": "уп",
+     "weight": "150",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tortilya-pshenichnaya-24852.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/24852_1_50684.jpg?216"
+    },
+    {
+     "ingredient": "Грецкие орехи",
+     "name": "Орех грецкий, 150 г",
+     "price": "256",
+     "units": "уп",
+     "weight": "150",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/orekh-gretskiy-150-g-15217.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15217_1_38602.jpg?224"
+    },
+    {
+     "ingredient": "Кукурузный крахмал",
+     "name": "Крахмал кукурузный",
+     "price": "44",
+     "units": "уп",
+     "weight": "200",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/krakhmal-kukuruznyy-38450.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/38450_1_38413.jpg?156"
+    },
+    {
+     "ingredient": "Изюм",
+     "name": "Изюм светлый, 150 г",
+     "price": "76",
+     "units": "уп",
+     "weight": "150",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/izyum-svetlyy-150-g-18172.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/18172_1_34252.jpg?15"
+    },
+    {
+     "ingredient": "Варенье",
+     "name": "Варенье малиновое",
+     "price": "148",
+     "units": "уп",
+     "weight": "310",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/varene-malinovoe-15759.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15759_1_50651.jpg?195"
+    },
+    {
+     "ingredient": "Желтый сладкий перец",
+     "name": "Перец жёлтый сладкий",
+     "price": "215",
+     "units": "кг",
+     "weight": "210",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/perets-zhyeltyy-sladkiy-18303.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/18303_1_53569.jpg?181"
+    },
+    {
+     "ingredient": "Колбаса",
+     "name": "Колбаса вареная с молоком",
+     "price": "218",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/kolbasa-varenaya-s-molokom-35977.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/35977_1_29347.jpg?96"
+    },
+    {
+     "ingredient": "Белая консервированная фасоль",
+     "name": "Фасоль белая натуральная без доб. сахара",
+     "price": "46",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/fasol-belaya-naturalnaya-bez-dob-sakhara-31089.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/31089_1_51069.jpg?227"
+    },
+    {
+     "ingredient": "Миндальное молоко",
+     "name": "Напиток «Молоко миндальное» без доб. сахара",
+     "price": "120",
+     "units": "уп",
+     "weight": "180",
+     "weight_units": "мл",
+     "product_url": "https://vkusvill.ru/goods/napitok-moloko-mindalnoe-bez-dob-sakhara-30727.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/30727_1_35562.jpg?16"
+    },
+    {
+     "ingredient": "Мягкий обезжиренный творог",
+     "name": "Творог мягкий обезжиренный 0%",
+     "price": "46",
+     "units": "уп",
+     "weight": "120",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tvorog-myagkiy-obezzhirennyy-0-1697.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/1697_1_49109.jpg?31"
+    },
+    {
+     "ingredient": "Палочки корицы",
+     "name": "Корица трубочки",
+     "price": "176",
+     "units": "уп",
+     "weight": "15",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/koritsa-trubochki-22394.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/22394_1_40003.JPG?135"
+    },
+    {
+     "ingredient": "Миндаль",
+     "name": "Миндаль сушеный, ядро",
+     "price": "241",
+     "units": "уп",
+     "weight": "150",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/mindal-sushenyy-yadro-39570.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/39570_1_42799.jpg?176"
+    },
+    {
+     "ingredient": "Свежемороженная брусника",
+     "name": "Брусника свежезамороженная",
+     "price": "177",
+     "units": "уп",
+     "weight": "300",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/brusnika-svezhezamorozhennaya-914.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/914_1_33784.jpg?25"
+    },
+    {
+     "ingredient": "Тростниковый сахар",
+     "name": "Сахар тростниковый нерафинированный",
+     "price": "198",
+     "units": "уп",
+     "weight": "1",
+     "weight_units": "кг",
+     "product_url": "https://vkusvill.ru/goods/sakhar-trostnikovyy-nerafinirovannyy-18396.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/18396_1_52944.jpg?165"
+    },
+    {
+     "ingredient": "Кунжут",
+     "name": "Семена кунжута Dr.Oetker 15 г",
+     "price": "22",
+     "units": "уп",
+     "weight": "15",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/semena-kunzhuta-dr-oetker-15-nbsp-g-50019.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/50019_1_54144.jpg?185"
+    },
+    {
+     "ingredient": "Сыр чеддер",
+     "name": "Сыр «Чеддер»",
+     "price": "953",
+     "units": "кг",
+     "weight": "270",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/syr-chedder-15775.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15775_1_47989.jpg?121"
+    },
+    {
+     "ingredient": "Ванильный стручок",
+     "name": "Ванилин Волшебное дерево 1.5 г",
+     "price": "17",
+     "units": "уп",
+     "weight": "1,5",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/vanilin-volshebnoe-derevo-1-5-nbsp-g-44707.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/44707_1_45647.jpg?97"
+    },
+    {
+     "ingredient": "Французский багет",
+     "name": "Багет «Французский»",
+     "price": "100",
+     "units": "уп",
+     "weight": "310",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/baget-frantsuzskiy-49788.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/49788_1_58673.jpg?193"
+    },
+    {
+     "ingredient": "Сливки 25%-ные",
+     "name": "Сливки Parmalat стерилизованные 23% 500 мл",
+     "price": "209",
+     "units": "уп",
+     "weight": "500",
+     "weight_units": "мл",
+     "product_url": "https://vkusvill.ru/goods/slivki-parmalat-sterilizovannye-23-500-nbsp-ml-32146.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/32146_1_36986.jpg?46"
+    },
+    {
+     "ingredient": "Свежие шампиньоны",
+     "name": "Шампиньоны резаные, свежезамороженные",
+     "price": "120",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/shampinony-rezanye-svezhezamorozhennye-29707.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/29707_1_29798.jpg?235"
+    },
+    {
+     "ingredient": "Гренки",
+     "name": "Сухарики ржаные с чесноком",
+     "price": "58",
+     "units": "уп",
+     "weight": "115",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/sukhariki-rzhanye-s-chesnokom-15343.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15343_1_38612.jpg?224"
+    },
+    {
+     "ingredient": "Сливки 33%-ные",
+     "name": "Сливки 30%",
+     "price": "83",
+     "units": "уп",
+     "weight": "190",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/slivki-30-17394.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/17394_1_47845.jpg?5"
+    },
+    {
+     "ingredient": "Консервированные помидоры",
+     "name": "Томаты нарезанные кубиком",
+     "price": "89",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tomaty-narezannye-kubikom-15312.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/15312_1_51385.jpg?222"
+    },
+    {
+     "ingredient": "Мелко рубленный чеснок",
+     "name": "Чеснок молодой",
+     "price": "334",
+     "units": "кг",
+     "weight": "100",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/chesnok-molodoy-25037.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/25037_1_59599.jpg?7"
+    },
+    {
+     "ingredient": "Бальзамический уксус",
+     "name": "Уксус Kuhne Aceto balsamica di Modena 6%  Итальянский бальзамический 250 мл",
+     "price": "199",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "мл",
+     "product_url": "https://vkusvill.ru/goods/uksus-kuhne-aceto-balsamica-di-modena-6-italyanskiy-balzamicheskiy-250-nbsp-ml-46016.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/46016_1_48328.jpg?137"
+    },
+    {
+     "ingredient": "Чечевица",
+     "name": "Чечевица красная, 450 г",
+     "price": "98",
+     "units": "уп",
+     "weight": "450",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/chechevitsa-krasnaya-450-nbsp-g-36616.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/36616_1_57369.jpg?207"
+    },
+    {
+     "ingredient": "Красная фасоль",
+     "name": "Фасоль красная натуральная без доб. сахара",
+     "price": "46",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/fasol-krasnaya-naturalnaya-bez-dob-sakhara-28796.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/28796_1_51067.jpg?227"
+    },
+    {
+     "ingredient": "Сушеный тимьян",
+     "name": "Орегано, 7 г",
+     "price": "16",
+     "units": "уп",
+     "weight": "7",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/oregano-7-g-16843.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16843_1_14942.jpg?234"
+    },
+    {
+     "ingredient": "Рафинированное оливковое масло",
+     "name": "Масло оливковое нераф. с орегано",
+     "price": "455",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "мл",
+     "product_url": "https://vkusvill.ru/goods/maslo-olivkovoe-neraf-s-oregano-25152.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/25152_1_36789.jpg?185"
+    },
+    {
+     "ingredient": "Куриная печень",
+     "name": "Печень куриная, замороженная",
+     "price": "175",
+     "units": "уп",
+     "weight": "700",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/pechen-kurinaya-zamorozhennaya-21300.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/21300_1_27693.jpg?125"
+    },
+    {
+     "ingredient": "Куриная голень",
+     "name": "Голень куриная ГП",
+     "price": "265",
+     "units": "кг",
+     "weight": "730",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/golen-kurinaya-gp-31103.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/31103_1_41456.jpg?26"
+    },
+    {
+     "ingredient": "Рис басмати",
+     "name": "Рис для плова Басмати экстрадлинный",
+     "price": "115",
+     "units": "уп",
+     "weight": "350",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/ris-dlya-plova-basmati-ekstradlinnyy-19748.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/19748_1_51433.jpg?4"
+    },
+    {
+     "ingredient": "Маслины",
+     "name": "Маслины Iberica без косточки мини ж/б 300 г",
+     "price": "100",
+     "units": "уп",
+     "weight": "300",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/masliny-iberica-bez-kostochki-mini-zh-b-300-nbsp-g-46022.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/46022_1_48334.jpg?137"
+    },
+    {
+     "ingredient": "Баранья лопатка",
+     "name": "Лопатка баранья без кости в сетке",
+     "price": "1 100",
+     "units": "кг",
+     "weight": "890",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/lopatka-baranya-bez-kosti-v-setke-47478.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/47478_1_58572.jpg?232"
+    },
+    {
+     "ingredient": "Смешанный фарш",
+     "name": "Фарш из говядины и свинины, 400 г",
+     "price": "214",
+     "units": "уп",
+     "weight": "400",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/farsh-iz-indeyki-500-nbsp-g-37018.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/21228_1_49111.jpg?151"
+    },
+    {
+     "ingredient": "Молотый сушеный чеснок",
+     "name": "Чеснок сушеный молотый",
+     "price": "16",
+     "units": "уп",
+     "weight": "10",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/chesnok-sushenyy-molotyy-16365.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/16365_1_54387.jpg?226"
+    },
+    {
+     "ingredient": "Хлебные крошки",
+     "name": "Сухари панировочные Волшебное дерево 200 г",
+     "price": "61",
+     "units": "уп",
+     "weight": "200",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/sukhari-panirovochnye-volshebnoe-derevo-200-nbsp-g-44664.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/44664_1_45585.jpg?97"
+    },
+    {
+     "ingredient": "Жасминовый рис",
+     "name": "Рис «По-тайски»",
+     "price": "152",
+     "units": "уп",
+     "weight": "250",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/ris-po-tayski-18354.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/18354_1_31611.jpg?15"
+    },
+    {
+     "ingredient": "Томатное пюре",
+     "name": "Томаты La Molisana Passata Пюре томатное 690 г",
+     "price": "175",
+     "units": "уп",
+     "weight": "690",
+     "weight_units": "г",
+     "product_url": "https://vkusvill.ru/goods/tomaty-la-molisana-passata-pyure-tomatnoe-690-nbsp-g-45983.html",
+     "product_image": "https://img.vkusvill.ru/site_thumb/45983_1_48295.jpg?137"
+    }
+   ]

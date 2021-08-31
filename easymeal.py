@@ -16,25 +16,6 @@ def ingredients_to_buy(recipes, products, condiments):
                         int(recipes_ingredients.pop(ingredient_name)) + int(edit_weight(ingredient_amount)[0]))})
             else:
                 recipes_ingredients.update({ingredient_name: edit_weight(ingredient_amount)[0]})
-    '''  
-    ingredients = Counter(recipes_ingredients).keys()
-    output = {}
-
-    for ingredient in ingredients:
-        summ = 0
-        for amount in recipes_ingredients[ingredient]:
-            summ = summ + edit_weight(amount)[0]
-        output.update({ingredient})
-'''
-
-    #  for ingr_name, ingr_amount in recipes_ingredients.items():
-    #     for values in ingr_amount:
-    #          output.update({ingr_name:[]})
-    #          output[ingr_name] = edit_weight(values)
-
-    # print('ingr', recipes_ingredients)
-    # print('cond', Counter(recipes_condiments).keys())
-    # return recipes_ingredients, recipes_condiments
     condiments = [condiment for condiment in Counter(recipes_condiments).keys()]
     return recipes_ingredients, condiments
 
@@ -93,14 +74,6 @@ def main():
         condiments_json = json_file.read()
     condiments = json.loads(condiments_json)
     meals_types = {'breakfasts': 'zavtraki', 'dinners': 'supy', 'suppers': 'osnovnye-blyuda'}
-    '''
-    random_recipes = {'breakfasts': random.sample([recipe for recipe in recipes
-                                        if recipe['meal_type'] == meals_types['breakfasts']], 7),
-                      'dinners': random.sample([recipe for recipe in recipes
-                                                if recipe['meal_type'] == meals_types['dinners']], 7),
-                      'suppers': random.sample([recipe for recipe in recipes
-                                                if recipe['meal_type'] == meals_types['suppers']], 7)}
-    '''
     random_recipes = []
     for meal_type in meals_types:
         random_recipes.append(random.sample([recipe for recipe in recipes

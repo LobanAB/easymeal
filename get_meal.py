@@ -24,15 +24,15 @@ def main():
         print('Завтрак:\n')
         print(recipes[2]['recipes'][0][args.day-1]['name'], '\n')
         print(recipes[2]['recipes'][0][args.day-1]['ingredients'])
-        print(recipes[2]['recipes'][0][args.day-1]['cooking_stages'], '\n')
+        print([stage.replace('\xa0', ' ') for stage in recipes[2]['recipes'][0][args.day-1]['cooking_stages']], '\n')
         print('Обед:\n')
         print(recipes[2]['recipes'][1][args.day-1]['name'], '\n')
         print(recipes[2]['recipes'][1][args.day-1]['ingredients'])
-        print(recipes[2]['recipes'][1][args.day-1]['cooking_stages'], '\n')
+        print([stage.replace('\xa0', ' ') for stage in recipes[2]['recipes'][1][args.day - 1]['cooking_stages']], '\n')
         print('Ужин:\n')
         print(recipes[2]['recipes'][2][args.day-1]['name'], '\n')
         print(recipes[2]['recipes'][2][args.day-1]['ingredients'])
-        print(recipes[2]['recipes'][2][args.day-1]['cooking_stages'], '\n')
+        print([stage.replace('\xa0', ' ') for stage in recipes[2]['recipes'][2][args.day - 1]['cooking_stages']], '\n')
 
 
 if __name__ == '__main__':
