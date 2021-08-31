@@ -16,7 +16,7 @@ def main():
     all_products = []
     for product in final_products:
         all_products.append(product['ingredient'])
-    print(len(all_products))
+    # print(len(all_products))
     ingredients = []
     for recipe in recipes:
         for ingredient in recipe['ingredients']:
@@ -28,8 +28,6 @@ def main():
         if (ingr[1] > 2) and (ingr[0] in all_products or ingr[0] in condiments):
             # common_ingr.append({ingr[0]: ingr[1]})
             common_ingr.append(ingr[0])
-    # print(common_ingr)
-    # print(len(common_ingr))
     with open('common_ingr.json', 'w', encoding='utf8') as my_file:
         json.dump(common_ingr, my_file, ensure_ascii=False)
 
@@ -41,8 +39,6 @@ def main():
                 good = False
         if good:
             output_recepies.append(recipe)
-    print(output_recepies)
-    print(len(output_recepies))
     with open('recipes_out.json', 'w', encoding='utf8') as my_file:
         json.dump(output_recepies, my_file, ensure_ascii=False)
 
