@@ -36,6 +36,15 @@ python3 get_meal.py -day 1
 get_meal.py -gp 1
 ```
 
+## Парсеры
+
+`eda_recipes.py` - Парсер рецептов с сайта [eda.ru](https://eda.ru/)
+`parse_vkusvill.py` - Парсер продуктов и цен с сайта [vkusvill.ru](https://vkusvill.ru/)
+
+## Дополнительные программы
+
+`common_ingredients.py` - удаляет редкие ингредиенты и записывает в json-файл рецепты в которых их нет.
+
 ## Цель проекта
 
 Код написан в учебных целях — это проект на курсе по Python и веб-разработке на сайте [dvmn.org](https://dvmn.org/).

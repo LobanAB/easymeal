@@ -16,7 +16,6 @@ def main():
     all_products = []
     for product in final_products:
         all_products.append(product['ingredient'])
-    # print(len(all_products))
     ingredients = []
     for recipe in recipes:
         for ingredient in recipe['ingredients']:
